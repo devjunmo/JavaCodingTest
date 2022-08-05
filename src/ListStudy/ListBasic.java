@@ -1,6 +1,7 @@
 /*
 [참고 자료]
 https://www.youtube.com/watch?v=uPSkCKB4Kuo
+https://da2uns2.tistory.com/entry/Java-ArrayList-%EC%82%AC%EC%9A%A9%EB%B2%95%EA%B3%BC-%EC%A3%BC%EC%9A%94-%EB%A9%94%EC%86%8C%EB%93%9C
 
  */
 
@@ -44,8 +45,38 @@ public class ListBasic {
         System.out.println("testArr = " + testArr);
 
 
-        // String -> list
+        // remove: 해당 인덱스의 값 or 해당 값 중 첫번째 값 삭제 (int로 치면 index로 인식해서 exception 뜰수 있다.)
+        testArr.remove(1);
+        System.out.println("testArr = " + testArr);
 
+
+        // get으로 인덱스에 해당하는 값 받기
+        int val = testArr.get(1);
+        System.out.println("val = " + val);
+        System.out.println("testArr = " + testArr);
+
+
+        // indexOf로 특정 값에대해 첫번째 인덱스 받기
+        testArr.add(1000);
+        int idx = testArr.indexOf(1000);
+        System.out.println("idx = " + idx);
+
+
+        // lastindexOf로 특정 값에 대해 마지막 인덱스 받기
+
+
+        // contains로 리스트 내부에 값이 있는지 없는지 확인
+        boolean isVal = testArr.contains(1000);
+        System.out.println("isVal = " + isVal);
+
+
+        // isEmpty로 비었는지 체크
+        System.out.println("testArr.isEmpty() = " + testArr.isEmpty());
+
+
+        // size 반환
+        int size = testArr.size();
+        System.out.println("size = " + size);
 
 
 
