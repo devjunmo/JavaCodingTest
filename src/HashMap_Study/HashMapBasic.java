@@ -19,6 +19,7 @@ public class HashMapBasic {
         map1.put(1, "one");
         map1.put(2, "two");
         map1.put(3, "three");
+        map1.put(3, "three2");
 
         System.out.println("map1 = " + map1);
 

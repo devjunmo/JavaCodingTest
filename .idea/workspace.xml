@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1457e825-9962-4aec-bcb1-797264570fbf" name="Changes" comment="BOJ, SWEA 문제 풀이들 업로드">
+    <list default="true" id="1457e825-9962-4aec-bcb1-797264570fbf" name="Changes" comment="순열, 조합, 부분집합 코드">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CT/BOJ/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CT/BOJ/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap_Study/HashMapBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_Study/HashMapBasic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/순열_조합/subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/완전탐색/subset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/순열_조합/중복순열.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,9 @@
       <recent name="$PROJECT_DIR$/src/JAVABasic" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.DNA_비밀번호_12891">
-    <configuration name="DNA_비밀번호_12891" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CT.BOJ.DNA_비밀번호_12891" />
+  <component name="RunManager" selected="애플리케이션.SWEA_9229_한빈이와SpotMart">
+    <configuration name="CT.BOJ.DNA비밀번호_12891_시간초과2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT.BOJ.DNA비밀번호_12891_시간초과2" />
       <module name="JavaCodingTest" />
       <extension name="coverage">
         <pattern>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="괄호짝짓기_1218" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CT.SWEA.D4.괄호짝짓기_1218" />
+    <configuration name="CT.BOJ.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT.BOJ.test" />
       <module name="JavaCodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CT.SWEA.D4.*" />
+          <option name="PATTERN" value="CT.BOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="암호생성기_1225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CT.SWEA.D3.암호생성기_1225" />
+    <configuration name="SWEA_9229_한빈이와SpotMart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT.SWEA.D3.SWEA_9229_한빈이와SpotMart" />
       <module name="JavaCodingTest" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="완전탐색.subset" />
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListStudy.LinkedList.stack.StackTest" />
       <module name="JavaCodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="완전탐색.*" />
+          <option name="PATTERN" value="ListStudy.LinkedList.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,20 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="신기한소수_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT.BOJ.Gold.신기한소수_2023" />
       <module name="JavaCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CT.BOJ.Gold.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.DNA_비밀번호_12891" />
-        <item itemvalue="애플리케이션.test" />
-        <item itemvalue="애플리케이션.subset" />
-        <item itemvalue="애플리케이션.괄호짝짓기_1218" />
-        <item itemvalue="애플리케이션.암호생성기_1225" />
+        <item itemvalue="애플리케이션.SWEA_9229_한빈이와SpotMart" />
+        <item itemvalue="애플리케이션.StackTest" />
+        <item itemvalue="애플리케이션.신기한소수_2023" />
+        <item itemvalue="애플리케이션.CT.BOJ.DNA비밀번호_12891_시간초과2" />
+        <item itemvalue="애플리케이션.CT.BOJ.test" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +167,10 @@
       <workItem from="1659659736637" duration="598000" />
       <workItem from="1659688265420" duration="7140000" />
       <workItem from="1659751189198" duration="9103000" />
+      <workItem from="1659785443293" duration="110000" />
+      <workItem from="1659788920036" duration="102000" />
+      <workItem from="1659839559156" duration="19825000" />
+      <workItem from="1659938506780" duration="9918000" />
     </task>
     <task id="LOCAL-00001" summary="BOJ, SWEA 문제 풀이들 업로드">
       <created>1659691389680</created>
@@ -169,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659691389680</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="순열, 조합, 부분집합 코드">
+      <created>1659785543060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659785543060</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +205,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BOJ, SWEA 문제 풀이들 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOJ, SWEA 문제 풀이들 업로드" />
+    <MESSAGE value="순열, 조합, 부분집합 코드" />
+    <option name="LAST_COMMIT_MESSAGE" value="순열, 조합, 부분집합 코드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
