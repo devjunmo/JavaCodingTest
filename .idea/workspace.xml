@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1457e825-9962-4aec-bcb1-797264570fbf" name="Changes" comment="순열, 조합, 부분집합 코드">
+    <list default="true" id="1457e825-9962-4aec-bcb1-797264570fbf" name="Changes" comment="SWEA 알고리즘 9229 문제 풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CT/BOJ/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CT/BOJ/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap_Study/HashMapBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_Study/HashMapBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,76 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jun/Desktop/JavaProj/JavaCodingTest/src/JAVABasic&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jun/Desktop/JavaProj/JavaCodingTest/src/CT/BOJ",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/CT/BOJ" />
       <recent name="$PROJECT_DIR$/src/JAVABasic" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.SWEA_9229_한빈이와SpotMart">
-    <configuration name="CT.BOJ.DNA비밀번호_12891_시간초과2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CT.BOJ.DNA비밀번호_12891_시간초과2" />
-      <module name="JavaCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CT.BOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CT.BOJ.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CT.BOJ.test" />
-      <module name="JavaCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CT.BOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SWEA_9229_한빈이와SpotMart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CT.SWEA.D3.SWEA_9229_한빈이와SpotMart" />
-      <module name="JavaCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CT.SWEA.D3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListStudy.LinkedList.stack.StackTest" />
-      <module name="JavaCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListStudy.LinkedList.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="신기한소수_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CT.BOJ.Gold.신기한소수_2023" />
+  <component name="RunManager" selected="애플리케이션.배열돌리기4_17406">
+    <configuration name="배열돌리기4_17406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT.BOJ.Gold.배열돌리기4_17406" />
       <module name="JavaCodingTest" />
       <extension name="coverage">
         <pattern>
@@ -115,13 +64,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P025_BJ16926_배열돌리기1_시간초과" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT.BOJ.P025_BJ16926_배열돌리기1_시간초과" />
+      <module name="JavaCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CT.BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="사칙연산유효성검사_1233" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT.SWEA.D4.사칙연산유효성검사_1233" />
+      <module name="JavaCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CT.SWEA.D4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="규영이와인영이의카드게임_6808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT.SWEA.D3.규영이와인영이의카드게임_6808" />
+      <module name="JavaCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CT.SWEA.D3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intParseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT.SWEA.D4.intParseTest" />
+      <module name="JavaCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CT.SWEA.D4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.SWEA_9229_한빈이와SpotMart" />
-        <item itemvalue="애플리케이션.StackTest" />
-        <item itemvalue="애플리케이션.신기한소수_2023" />
-        <item itemvalue="애플리케이션.CT.BOJ.DNA비밀번호_12891_시간초과2" />
-        <item itemvalue="애플리케이션.CT.BOJ.test" />
+        <item itemvalue="애플리케이션.배열돌리기4_17406" />
+        <item itemvalue="애플리케이션.P025_BJ16926_배열돌리기1_시간초과" />
+        <item itemvalue="애플리케이션.사칙연산유효성검사_1233" />
+        <item itemvalue="애플리케이션.intParseTest" />
+        <item itemvalue="애플리케이션.규영이와인영이의카드게임_6808" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +171,10 @@
       <workItem from="1659785443293" duration="110000" />
       <workItem from="1659788920036" duration="102000" />
       <workItem from="1659839559156" duration="19825000" />
-      <workItem from="1659938506780" duration="9918000" />
+      <workItem from="1659938506780" duration="15370000" />
+      <workItem from="1660001913586" duration="31886000" />
+      <workItem from="1660060631913" duration="55000" />
+      <workItem from="1660094098742" duration="12513000" />
     </task>
     <task id="LOCAL-00001" summary="BOJ, SWEA 문제 풀이들 업로드">
       <created>1659691389680</created>
@@ -186,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659785543060</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="자바로 연결리스트, 스택 구현">
+      <created>1659965649522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659965649522</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SWEA 알고리즘 9229 문제 풀이">
+      <created>1659965700483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659965700483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +224,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BOJ, SWEA 문제 풀이들 업로드" />
     <MESSAGE value="순열, 조합, 부분집합 코드" />
-    <option name="LAST_COMMIT_MESSAGE" value="순열, 조합, 부분집합 코드" />
+    <MESSAGE value="자바로 연결리스트, 스택 구현" />
+    <MESSAGE value="SWEA 알고리즘 9229 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="SWEA 알고리즘 9229 문제 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -260,6 +280,21 @@
           <url>file://$PROJECT_DIR$/src/CT/SWEA/D3/SWEA_1289.java</url>
           <line>35</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CT/SWEA/D3/규영이와인영이의카드게임_6808.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CT/SWEA/D3/규영이와인영이의카드게임_6808.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CT/BOJ/Gold/배열돌리기4_17406.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
