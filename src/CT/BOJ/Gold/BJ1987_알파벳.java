@@ -52,7 +52,7 @@ public class BJ1987_알파벳 {
 
     private static void dfs(int curRow, int curCol, int lev) {
 
-        // 정상범위가 아니거나
+        // 현재 무브 카운트가 맥스보다 크다면...
         if (movCnt > maxMovCnt) {
             maxMovCnt = movCnt;
         }
